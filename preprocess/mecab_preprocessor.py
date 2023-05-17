@@ -44,3 +44,5 @@ class Preprocessor:
         t_sentence = self.transform_sentence(sentence)
         return t_sentence, self.labeling(t_sentence)
                 
+
+#d
